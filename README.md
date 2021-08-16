@@ -8,7 +8,7 @@ After a break I went on to do single courses in JavaScript and then enrolled in 
 
 I have a great job and run a business on the side so this is not a new career, it's just for fun. Like a crossword puzzle or game of Sudoku.
 
-##Why coding?
+## Why coding?
 
 + Keeps your mind active
 + Learning something new gives you confidence in many areas
